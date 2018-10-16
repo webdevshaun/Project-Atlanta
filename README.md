@@ -1,6 +1,6 @@
-## Project-Olympia
+## Project-Atlanta
 #### We've gone open on :octocat:
-### What can you do with Project-Olympia
+### What can you do with Atlanta
 - Unlock your House
 - Payments (NFC)
 - Unlock your computer
@@ -9,4 +9,4 @@
 - Before you edit info on a computer you must provide a 4-8 digit pin
 ### OlympiaEdit
 - The program you use to edit info on the Card
-- Go to <a href="https://github.com/webdevshaun/Project-Olympia/tree/master/OlympiaEdit">/OlympiaEdit</a>
+- Go to <a href="https://github.com/webdevshaun/Project-Atlanta/tree/master/AtlantaEdit">/AtlantaEdit</a>
